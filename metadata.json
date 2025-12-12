@@ -1,0 +1,7 @@
+{
+  "name": "Winter Beats Visualizer",
+  "description": "An interactive audio visualizer generating snowflake-shaped fireworks based on music rhythm and frequency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
